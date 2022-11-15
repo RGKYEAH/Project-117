@@ -1,0 +1,19 @@
+body {
+    background-color:skyblue;
+}
+
+#score {
+    font-size:35px;
+    margin-left:-80%;
+}
+
+#time {
+    font-size:35px;
+    float:right;
+    margin-right:3%;
+}
+
+#draw_sketch {
+    font-size:35px;
+    color:royalblue;
+}
